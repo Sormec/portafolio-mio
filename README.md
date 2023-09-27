@@ -9,6 +9,8 @@ Java - Medio
 Estructura de Datos - Básico
 Base de datos - Básico
 
+
+##English
 In this portfolio it's all store that I will going to learned in the way to become a software developer.
 
 For the moment I have skills in:
